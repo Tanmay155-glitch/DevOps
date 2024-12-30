@@ -1,4 +1,4 @@
 @echo off
-echo Starting the HelloWorld application...
-java <program name>
+echo Start Running ... !!
+java Hello
 pause
